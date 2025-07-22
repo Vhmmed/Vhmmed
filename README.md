@@ -15,12 +15,12 @@
   <samp>
     🚀 I am a Flutter Developer from <b>Egypt</b><br>
     💻 I love solving problems, learning new technologies, and building clean UI experiences<br>
-    📧 Reach me: your.email@example.com
+    📧 Reach me: ahmedadel2008yahoo.com@gmail.com
   </samp>
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+ <a href="https://github.com/Vhmmed" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  <a href="https://twitter.com/your-twitter" target="_blank">
