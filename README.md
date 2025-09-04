@@ -15,7 +15,7 @@
   <samp>
     🚀 I am a Flutter Developer from <b>Egypt</b><br>
     💻 I love solving problems, learning new technologies, and building clean UI experiences<br>
-    📧 Reach me: ahmedadel2008yahoo.com@gmail.com
+    📧 Reach me: <a href="mailto:ahmedadel2008yahoo.com@gmail.com">ahmedadel2008yahoo.com@gmail.com</a>
   </samp>
 </p>
 
@@ -37,36 +37,36 @@
 - 💙 Passionate about building mobile apps with Flutter  
 - 🧠 Familiar with Java, C++, C, and Python  
 - 🌱 Currently exploring animations and clean architecture in Flutter  
-- 📬 Feel free to ask me anything [here](https://github.com/ahmedadel/ahmedadel/issues)  
+- 📬 Feel free to ask me anything [here](https://github.com/Vhmmed/ahmedadel/issues)  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+###  Programming Languages  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-### 🌐 Frontend Web
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+###  Frontend Web  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-### 📱 Mobile & UI
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+###  Mobile & UI  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+###  Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vhmmed&show_icons=true&theme=radical" height="180" />
@@ -79,9 +79,9 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-[![Meal App](https://github-readme-stats.vercel.app/api/pin/?username=Vhmmed&repo=Meal_Project&theme=radical)](https://github.com/Vhmmed/Meal_Project)
+[![Meal App](https://github-readme-stats.vercel.app/api/pin/?username=Vhmmed&repo=Meal_Project&theme=radical)](https://github.com/Vhmmed/Meal_Project)  
 [![BMI App](https://github-readme-stats.vercel.app/api/pin/?username=Vhmmed&repo=bmi_project&theme=radical)](https://github.com/Vhmmed/bmi_project)
 
 ---
