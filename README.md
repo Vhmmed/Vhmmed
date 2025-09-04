@@ -82,7 +82,7 @@
 ##  Featured Projects
 
 [![Meal App](https://github-readme-stats.vercel.app/api/pin/?username=Vhmmed&repo=Meal_Project&theme=radical)](https://github.com/Vhmmed/Meal_Project)  
-[![BMI App](https://github-readme-stats.vercel.app/api/pin/?username=Vhmmed&repo=bmi_project&theme=radical)](https://github.com/Vhmmed/bmi_project)
+[![BMI App]([https://github-readme-stats.vercel.app/api/pin/?username=Vhmmed&repo=bmi_project&theme=radical](https://github.com/Vhmmed/bmi_project.git))](https://github.com/Vhmmed/bmi_project)
 
 ---
 
