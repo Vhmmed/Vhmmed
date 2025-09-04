@@ -82,7 +82,7 @@
 ## 🚀 Featured Projects
 
 <!-- Replace with your actual GitHub repo names -->
-[![My Flutter App]([https://github-readme-stats.vercel.app/api/pin/?username=ahmedadel&repo=my_flutter_app&theme=radical](https://github.com/Vhmmed/Meal_Project.git))](https://github.com/ahmedadel/my_flutter_app)
+[![My Flutter App]([https://github-readme-stats.vercel.app/api/pin/?username=ahmedadel&repo=my_flutter_app&theme=radical]([https://github.com/Vhmmed/Meal_Project.git))](https://github.com/ahmedadel/Meal App](https://github.com/Vhmmed/bmi_project.git))(https://github.com/ahmedadel/BMI App]
 [![Todo App](https://github-readme-stats.vercel.app/api/pin/?username=ahmedadel&repo=todo_app&theme=radical)](https://github.com/ahmedadel/todo_app)
 
 ---
