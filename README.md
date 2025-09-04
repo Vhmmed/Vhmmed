@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/Vhmmed" target="_blank">
+ <a href="https://www.linkedin.com/in/ahmedadel" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  <a href="mailto:ahmedadel2008yahoo.com@gmail.com">
@@ -69,24 +69,23 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedadel&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedadel&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vhmmed&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vhmmed&layout=compact&theme=radical" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedadel&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vhmmed&theme=radical" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<!-- Replace with your actual GitHub repo names -->
-[![Meal App]([https://github-readme-stats.vercel.app/api/pin/?username=ahmedadel&repo=my_flutter_app&theme=radical)]([https://github.com/Vhmmed/Meal_Project.git)](https://github.com/ahmedadel/Meal App))
-[![BMI App](https://github.com/Vhmmed/bmi_project.git))](https://github.com/ahmedadel/BMI_app)
+[![Meal App](https://github-readme-stats.vercel.app/api/pin/?username=Vhmmed&repo=Meal_Project&theme=radical)](https://github.com/Vhmmed/Meal_Project)
+[![BMI App](https://github-readme-stats.vercel.app/api/pin/?username=Vhmmed&repo=bmi_project&theme=radical)](https://github.com/Vhmmed/bmi_project)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedadel&theme=radical&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vhmmed&theme=radical&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true" />
 </p>
