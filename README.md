@@ -8,7 +8,7 @@
 </a>
 
 <h3 align="center">
-  <samp>&gt; Hey there! I am <b>Ahmed Adel</b></samp>
+  <samp>&gt;     Hey there! I am <b>Ahmed Adel</b></samp>
 </h3>
 
 <p align="center"> 
