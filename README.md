@@ -74,38 +74,51 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vhmmed&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vhmmed&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vhmmed&theme=radical" alt="Contribution Streak" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Vhmmed/Meal_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vhmmed&repo=Meal_Project&theme=radical" alt="Meal App" />
-  </a>
-  <a href="https://github.com/Vhmmed/bmi_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vhmmed&repo=bmi_project&theme=radical" alt="BMI App" />
-  </a>
-</p>
-
----
-
 ## 💡 What I'm Currently Working On
 
 - 🔨 Building feature-rich Flutter applications with clean architecture
 - 📚 Mastering advanced animations and state management patterns
 - 🤝 Contributing to open-source Flutter community projects
 - 🎯 Exploring best practices in mobile app performance optimization
+
+---
+
+<div align="center">
+
+## 📈 GitHub Stats & 🚀 Featured Projects
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="48%">
+      <h3>📈 My Stats</h3>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Vhmmed&show_icons=true&theme=radical&count_private=true" />
+      <img width="100%" style="margin-top: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Vhmmed&theme=radical" />
+    </td>
+    <td width="4%"></td>
+    <td align="center" width="48%">
+      <h3>🚀 Featured Projects</h3>
+      <a href="https://github.com/Vhmmed/Meal_Project">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vhmmed&repo=Meal_Project&theme=radical" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/Vhmmed/bmi_project">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vhmmed&repo=bmi_project&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 Activity Graph
+
+</div>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vhmmed&theme=radical&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true" />
 
 ---
 
@@ -118,10 +131,6 @@ I'm always interested in discussing Flutter development, sharing ideas, and expl
 - 💬 **GitHub Issues:** [Ask me anything](https://github.com/Vhmmed/Vhmmed/issues)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vhmmed&theme=radical&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true" alt="Contribution Graph" />
-</p>
 
 <p align="center">
   <strong>Always open to opportunities and collaborations! 🚀</strong><br>
