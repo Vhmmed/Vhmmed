@@ -91,7 +91,7 @@
 
 <p align="center">
   <a href="https://github.com/Vhmmed/Bookly_App">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=Vhmmed&repo=Meal_Project&theme=radical](https://github.com/Vhmmed/Bookly_App/blob/main/assets/images/logo.png)" alt="Bookly App" />
+    <img src="https://github.com/Vhmmed/Bookly_App/blob/main/assets/images/logo.png" alt="Bookly App" />
   </a>
 </p>
 
