@@ -91,16 +91,12 @@
 
 <p align="center">
   <a href="https://github.com/Vhmmed/Bookly_App">
-    <img src="https://github.com/Vhmmed/Bookly_App/blob/main/assets/images/logo.png?raw=true" width="150" style="border-radius: 12px; margin: 0 20px;" />
+    <img src="https://github.com/Vhmmed/Bookly_App/blob/main/assets/images/logo.png" alt="Bookly" width="300" style="border-radius: 12px; margin: 0 30px;" />
   </a>
+  
   <a href="https://github.com/Vhmmed/Docara">
-    <img src="https://github.com/Vhmmed/Docara/blob/main/assets/LogoApp/logo.jpg?raw=true" width="150" style="border-radius: 12px; margin: 0 20px;" />
+    <img src="https://github.com/Vhmmed/Docara/blob/main/assets/LogoApp/logo.jpg" alt="Docara" width="300" style="border-radius: 12px; margin: 0 15px;" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Vhmmed/Bookly_App"><strong>Bookly App</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/Vhmmed/Docara"><strong>Docara</strong></a>
 </p>
 
 ---
