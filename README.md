@@ -91,11 +91,11 @@
 
 <p align="center">
   <a href="https://github.com/Vhmmed/Bookly_App">
-    <img src="https://github.com/Vhmmed/Bookly_App/blob/main/assets/images/logo.png" alt="Bookly" width="160" style="border-radius: 12px; margin: 0 15px;" />
+    <img src="https://github.com/Vhmmed/Bookly_App/blob/main/assets/images/logo.png" alt="Bookly" width="300" style="border-radius: 12px; margin: 0 30px;" />
   </a>
   
   <a href="https://github.com/Vhmmed/Docara">
-    <img src="https://github.com/Vhmmed/Docara/blob/main/assets/LogoApp/logo.jpg" alt="Docara" width="160" style="border-radius: 12px; margin: 0 15px;" />
+    <img src="https://github.com/Vhmmed/Docara/blob/main/assets/LogoApp/logo.jpg" alt="Docara" width="300" style="border-radius: 12px; margin: 0 15px;" />
   </a>
 </p>
 
