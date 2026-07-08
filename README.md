@@ -115,7 +115,7 @@
 
 I'm always interested in discussing Flutter development, sharing ideas, and exploring new opportunities. Feel free to reach out:
 
--  **LinkedIn:** [linkedin](https://www.linkedin.com/in/ahmedadel)
+-  **LinkedIn:** [linkedin](https://www.linkedin.com/in/ahmedaaddel/)
 -  **Email:** [ahmedelazab](mailto:ahmedelazab.co@gmail.com)
 -  **GitHub Issues:** [Ask me anything](https://github.com/Vhmmed/Vhmmed/issues)
 
