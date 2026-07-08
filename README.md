@@ -94,7 +94,7 @@
     <img src="https://github.com/Vhmmed/Bookly_App/blob/main/assets/images/logo.png" alt="Bookly" />
   </a>
   <a href="https://github.com/Vhmmed/Docara">
-    <img src="https://github.com/Vhmmed/Docara/blob/main/assets/LogoApp/logo.jpeg" alt="Docara"/>
+    <img src="https://github.com/Vhmmed/Docara/blob/main/assets/LogoApp/logo.jpg" alt="Docara"/>
   </a>
 </p>
 
